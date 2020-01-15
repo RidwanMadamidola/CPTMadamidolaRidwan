@@ -1,0 +1,26 @@
+body {
+	background-image: url(finalng.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+img {
+	max-width:63%;
+	max-height:63%;
+}
+h2 {
+	color: white;
+	font-family: arial;
+	text-align: center;
+}
+
+div {
+	overflow: hidden;
+	background-color: #CE9EC3;
+	box-shadow: 0px 0px 20px white;
+	opacity: 0.91;
+	width: auto;
+	margin: auto;
+	min-height: 100px;
+	min-width: 100px;
+}
